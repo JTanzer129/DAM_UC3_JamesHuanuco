@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DAM_UC3_JamesHuanuco</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="checkbox_" />
+    <string name="checkbox_NCS">No cerrar sesión</string>
+    <string name="btn_registrate">Registrate</string>
+    <string name="text_name" />
+    <string name="text_apellido" />
+    <string name="btn_mujer">Mujer</string>
+    <string name="btn_hombre">Hombre</string>
+</resources>
